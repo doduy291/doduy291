@@ -2,9 +2,6 @@
 
 ## Hi there👋, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30" /></h2>
 
-- Learning everything about fullstack technologies.
--
-
 ## 📚 Tech Stack
 
 ### **Languages**
@@ -18,7 +15,7 @@
 
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="35px" alt="React"></a>
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
-<a href="" target="_blank"><img src="img/expressjs.svg" width="35px" alt="ExpressJS"></a>
+<a href="" target="_blank"><img src="img/expressjs-icon.svg" width="35px" alt="ExpressJS"></a>
 <a href="" target="_blank"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>
 <a href="" target="_blank"><img src="img/emotion-icon.png" width="35px" alt="Emotion"></a>
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" width="35px" alt="SASS"></a>
@@ -27,15 +24,15 @@
 
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35px" alt="MongoDB"></a>
 <a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35px" alt="MySQL"></a>
-<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png width="35px" alt="PostgreSQL"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="35px" alt="PostgreSQL"></a>
 
 ### **Tools**
 
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" width="35px" alt="Git"></a>
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" width="35px" alt="Docker"></a>
-<a href="" target="_blank"><img src="hhttps://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35px" alt="VSCode"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35px" alt="VSCode"></a>
 <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="35px" alt="Figma"></a>
-<a href="" target="_blank"><img src="hhttps://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="35px" alt="Photoshop"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="35px" alt="Photoshop"></a>
 
 ## 🚀 Latest Projects
 
@@ -49,6 +46,6 @@
 
 ## 🤝 Contact with me
 
-<a href="https://www.linkedin.com/in/duy-đỗ-37528b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/duy.date/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/duy-đỗ-37528b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/duy.date/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://twitter.com/dayui_duy" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>

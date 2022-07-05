@@ -2,37 +2,53 @@
 
 ## Hi there👋, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30" /></h2>
 
-- Learning everything about Fullstacl technologies
+- Learning everything about fullstack technologies.
+-
 
 ## 📚 Tech Stack
 
-### Languages
+### **Languages**
 
-<code><a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="22px" alt="js"></a></code>
+<a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="35px" alt="Javascript"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" width="35px" alt="Typescript"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="35px" alt="HTML"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" width="35px" alt="CSS"></a>
 
-<!-- ### **Latest Projects 🚀**
+### **Frameworks and Libraries**
 
-- [Instagram Noob](https://instagram-noob.herokuapp.com/)
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="35px" alt="React"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
+<a href="" target="_blank"><img src="img/expressjs.svg" width="35px" alt="ExpressJS"></a>
+<a href="" target="_blank"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>
+<a href="" target="_blank"><img src="img/emotion-icon.png" width="35px" alt="Emotion"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/sass.png" width="35px" alt="SASS"></a>
 
-- [Food-G App](https://food-g-app.web.app)
+### **Databases**
 
-- [Minecraft Shop](https://igdev116.github.io/minecraft-shop)
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35px" alt="MongoDB"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35px" alt="MySQL"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png width="35px" alt="PostgreSQL"></a>
 
-- [UTE Covid Landing Page](https://igdev116.github.io/ute-covid-landing-page)
+### **Tools**
 
-- [YouTube Clone](https://igdev116.github.io/clone-youtube)
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" width="35px" alt="Git"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" width="35px" alt="Docker"></a>
+<a href="" target="_blank"><img src="hhttps://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="35px" alt="VSCode"></a>
+<a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" width="35px" alt="Figma"></a>
+<a href="" target="_blank"><img src="hhttps://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="35px" alt="Photoshop"></a>
 
-- [Purpose Lading Page](https://ig-purpose.web.app)
+## 🚀 Latest Projects
 
-### **Some of my Github Stats 🎓**
+- Updating...
+
+## 📈 Statistics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=igdev116&show_icons=true&theme=react&icon_color=ffb300" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igdev116&layout=compact&theme=react&langs_count=6&" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doduy291&layout=compact&theme=react&langs_count=6&" height="165" />
 </p>
 
-### **Contact with me ⚡**
+## 🤝 Contact with me
 
-<a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-minh-h%C6%B0ng-08ab9a1ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/channel/UCtMA-IpVPoFIg1Psf5x1-fQ" target="_blank"><img src="https://img.shields.io/youtube/channel/views/UCtMA-IpVPoFIg1Psf5x1-fQ?color=FF514E&label=Youtube&logo=youtube&logoColor=FF514E&style=flat-square" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/hung1162/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
+<a href="https://www.linkedin.com/in/duy-đỗ-37528b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/duy.date/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://twitter.com/dayui_duy" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>

@@ -1,6 +1,6 @@
 <!-- Doduy291 -->
 
-# Hi there👋, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="30" /></h2>
+# Hi y'all, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" width="30" /></h2>
 
 ## 📚 Tech Stack
 

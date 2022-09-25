@@ -15,7 +15,7 @@
 
 <a href="" target="_blank" title="ReactJS"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="35px" alt="React"></a>
 <a href="" target="_blank" title="NextJS"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
-<a href="" target="_blank" title="ExpressJS"><img src="img/expressjs-icon.svg" width="35px" alt="ExpressJS"></a>
+<a href="" target="_blank" title="ExpressJS"><img src="img/expressjs.png" width="35px" alt="ExpressJS"></a>
 <a href="" target="_blank" title="NestJS"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>
 <a href="" target="_blank" title="Emotion"><img src="img/emotion-icon.png" width="35px" alt="Emotion"></a>
 <a href="" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" width="35px" alt="SASS"></a>

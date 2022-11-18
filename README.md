@@ -17,7 +17,7 @@
 <a href="" target="_blank" title="NextJS"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
 <a href="" target="_blank" title="ExpressJS"><img src="img/expressjs-full-icon.svg" height="35px" alt="ExpressJS"></a>
 <a href="" target="_blank" title="NestJS"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>
-<a href="" target="_blank" title="NestJS"><img src="img/prisma-icon.svg" width="35px" alt="Prisma"></a>
+<a href="" target="_blank" title="Prisma"><img src="img/prisma-icon.svg" width="35px" alt="Prisma"></a>
 <a href="" target="_blank" title="Emotion"><img src="img/emotion-icon.png" width="35px" alt="Emotion"></a>
 <a href="" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" width="35px" alt="SASS"></a>
 
@@ -26,7 +26,7 @@
 <a href="" target="_blank" title="MongoDB"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35px" alt="MongoDB"></a>
 <a href="" target="_blank" title="MySQL"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35px" alt="MySQL"></a>
 <a href="" target="_blank" title="PostgreSQL"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="35px" alt="PostgreSQL"></a>
-<a href="" target="_blank" title="PostgreSQL"><img src="img/supabase-icon.svg" width="35px" alt="Supabase"></a>
+<a href="" target="_blank" title="Supabase"><img src="img/supabase-icon.svg" width="35px" alt="Supabase"></a>
 
 ### **Tools**
 

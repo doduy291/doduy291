@@ -1,6 +1,6 @@
 <!-- Doduy291 -->
 
-# Hi y'all, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" width="40" /></h2>
+# Yay GUYS!!!, I'm Dayui - A Web Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" width="40" /></h2>
 
 ## 📚 Tech Stack
 
@@ -17,6 +17,7 @@
 <a href="" target="_blank" title="NextJS"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
 <a href="" target="_blank" title="ExpressJS"><img src="img/expressjs-full-icon.svg" height="35px" alt="ExpressJS"></a>
 <a href="" target="_blank" title="NestJS"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>
+<a href="" target="_blank" title="NestJS"><img src="img/prisma-icon.svg" width="35px" alt="Prisma"></a>
 <a href="" target="_blank" title="Emotion"><img src="img/emotion-icon.png" width="35px" alt="Emotion"></a>
 <a href="" target="_blank" title="Sass"><img src="https://img.icons8.com/color/48/000000/sass.png" width="35px" alt="SASS"></a>
 
@@ -25,6 +26,7 @@
 <a href="" target="_blank" title="MongoDB"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="35px" alt="MongoDB"></a>
 <a href="" target="_blank" title="MySQL"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35px" alt="MySQL"></a>
 <a href="" target="_blank" title="PostgreSQL"><img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="35px" alt="PostgreSQL"></a>
+<a href="" target="_blank" title="PostgreSQL"><img src="img/supabase-icon.svg" width="35px" alt="Supabase"></a>
 
 ### **Tools**
 
@@ -36,12 +38,14 @@
 
 ## 🚀 Latest Projects
 
+- [URL Shortener Next](https://github.com/doduy291/url-shortener-next)
+- [NextJS Boilerplate (latest v12.3)](https://github.com/doduy291/next-js-setup)
 - Updating...
 
 ## 📈 Statistics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doduy291&layout=compact&theme=react&langs_count=6&" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doduy291&layout=compact&theme=react&langs_count=6&hide=css,ejs,less,html" height="165" />
 </p>
 
 ## 🤝 Contact with me

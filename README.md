@@ -14,6 +14,7 @@
 ### **Frameworks and Libraries**
 
 <a href="https://reactjs.org" target="_blank" title="ReactJS"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="35px" alt="React"></a>
+<a href="https://vuejs.org" target="_blank" title="VueJS"><img src="img/vuejs-icon.svg" width="35px" alt="VueJS"></a>
 <a href="https://nextjs.org" target="_blank" title="NextJS"><img src="https://img.icons8.com/color/48/000000/nextjs.png" width="35px" alt="NextJS"></a>
 <a href="https://expressjs.com" target="_blank" title="ExpressJS"><img src="img/expressjs-full-icon.svg" height="35px" alt="ExpressJS"></a>
 <a href="https://nestjs.com" target="_blank" title="NestJS"><img src="img/nestjs-icon.svg" width="35px" alt="NestJS"></a>

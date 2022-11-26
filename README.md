@@ -46,7 +46,7 @@
 ## 📈 Statistics
 
 <p align="left">
-<img src="github-readme-stats.vercel.app/api/top-langs/?username=doduy291&layout=compact&theme=react&langs_count=6&hide=css,ejs,less,shell" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doduy291&layout=compact&theme=react&langs_count=6&hide=css,ejs,less,shell" height="165" />
 </p>
 
 ## 🤝 Contact with me

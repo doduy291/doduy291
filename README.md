@@ -46,6 +46,3 @@
 </p>
 
 ## 🤝 Contact with me
-
-<a href="https://www.linkedin.com/in/duy-đỗ-37528b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/duy.date/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>

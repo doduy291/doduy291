@@ -39,10 +39,6 @@
 
 ## 🚀 Latest Projects
 
-- [URL Shortener Next](https://github.com/doduy291/url-shortener-next)
-- [NextJS Boilerplate (latest v12.3)](https://github.com/doduy291/next-js-setup)
-- Updating...
-
 ## 📈 Statistics
 
 <p align="left">

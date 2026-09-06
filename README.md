@@ -1,7 +1,5 @@
 <!-- Doduy291 -->
 
-# Yay GUYS!!!, I'm Day - A Developer <img src="https://emojis.slackmojis.com/emojis/images/1643515400/14194/hello_jump.gif?1643515400" width="40" /></h2>
-
 ## 📚 Tech Stack
 
 ### **Languages**
